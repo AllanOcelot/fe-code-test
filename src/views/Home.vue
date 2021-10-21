@@ -2,8 +2,8 @@
   <div class="container home">
     <h1>Hello, Friend.</h1>
     <p>
-      Test completed around the hour and a half mark, I spent longe than I care
-      to admit looking for a free web version of the font used in figma, but
+      Test completed around the hour and a half mark, I spent longer than I care
+      to admit looking for a free web version of the font used in Figma, but
       then I coudn't find one in the end, ah well!
     </p>
 
